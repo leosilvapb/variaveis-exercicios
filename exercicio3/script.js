@@ -33,4 +33,4 @@ console.log(typeof anoAdmissao)
 
 console.log("RELATÓRIO DO COLABORADOR")
 
-console.log(" O Colaborador", nome,","," Nascido em: ",nascimento,",","reside no endereço", endereco,",","Com o número de CPF:", cpf, ".","Sua escolaridade é ", escolaridade, ".", "Possui CNH?", cnh, ".", "Ele tem", quantFilhos, " filhos e seu cargo atual é de ", cargo, ".", "Seu sálario atual é de", salario, ",", "e a porcentagem da sua comissão é: ", comissao, "e foi admitido da nada de ", anoAdmissao)
+console.log(" O Colaborador", nome,","," Nascido em: ",nascimento,",","reside no endereço", endereco,",","Com o número de CPF:", cpf, ".","Sua escolaridade é ", escolaridade, ".", "Possui CNH?", cnh, ".", "Ele tem", quantFilhos, " filhos e seu cargo atual é de ", cargo, ".", "Seu sálario atual é de", salario, ",", "e a porcentagem da sua comissão é: ", comissao, "e foi admitido na data de ", anoAdmissao)
